@@ -1,0 +1,3 @@
+Path to hyprlock and hyprpaper wallpapers
+
+~/Pictures/Wallpapers/simple.png
