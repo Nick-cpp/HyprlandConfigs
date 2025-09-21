@@ -1,9 +1,13 @@
-# Сокращения
+#################
+#### ALIASES ####
+#################
+
 alias m="micro"
 alias f="fastfetch"
 alias g="git"
 alias c="clear"
 alias sp="sudo pacman"
+alias 
 
 if status is-interactive
     # Commands to run in interactive sessions can go here
