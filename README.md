@@ -1,4 +1,4 @@
-# HyprlandConfigs
+# HyprlandConfigs - the old version of https://github.com/Nick-cpp/MyHyprConfigs
 
 Packages needed
 
